@@ -17,7 +17,7 @@ Example invocation:
     
 In the dockerfile the environment variable ENV strings has to be defined by you. Only the list queries can be modify by the person who wants to execute directly the dockerfile.
 
-## Exemples :
+## Examples :
 
 If you run :
 
